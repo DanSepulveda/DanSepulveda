@@ -81,15 +81,15 @@
         <img src="https://github.com/DanSepulveda/dev-icons/blob/master/github.png" height="45" width="45" align="center" />
     </a> 
     &nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/">
+        <img src="https://github.com/DanSepulveda/dev-icons/blob/master/vs-code.png" height="45" width="45" align="center" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://heroku.com/">
         <img src="https://github.com/DanSepulveda/dev-icons/blob/master/heroku.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://www.netlify.com/">
         <img src="https://github.com/DanSepulveda/dev-icons/blob/master/netlify.png" height="45" width="45" align="center" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/DanSepulveda/dev-icons/blob/master/vs-code.png" height="45" width="45" align="center" />
     </a>
 </div>
 
