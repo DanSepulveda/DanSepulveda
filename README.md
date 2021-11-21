@@ -34,62 +34,62 @@
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/html.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/html.png" height="45" width="45" align="center" />
     </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/css.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/css.png" height="45" width="45" align="center" />
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/javascript.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/javascript.png" height="45" width="45" align="center" />
     </a>
     <a href="https://getbootstrap.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/bootstrap5.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/bootstrap5.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://mui.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/material-ui.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/material-ui.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://sass-lang.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/sass.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/sass.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://reactjs.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/react.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/react.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://reactnative.dev/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/react-native.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/react-native.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://redux.js.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/redux.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/redux.png" height="45" width="45" align="center" />
     </a>
     &nbsp;&nbsp;
     <a href="https://nodejs.org/en/">
-      <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/node.png" height="45" width="45" align="center" />
+      <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/node.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://expressjs.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/express-js.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/express-js.png" height="45" width="45" align="center" />
     </a>
     <a href="https://www.npmjs.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/npm.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/npm.png" height="45" width="45" align="center" />
     </a>
     <a href="https://www.mongodb.com/">
-         <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/mongodb.png" height="45" width="45" align="center" />
+         <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/mongodb.png" height="45" width="45" align="center" />
     </a>
     &nbsp;&nbsp;
     <a href="https://git-scm.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/git.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/git.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://github.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/github.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/github.png" height="45" width="45" align="center" />
     </a> 
     &nbsp;&nbsp;
     <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/vs-code.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/vs-code.png" height="45" width="45" align="center" />
     </a>
     &nbsp;&nbsp;
     <a href="https://heroku.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/heroku.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/heroku.png" height="45" width="45" align="center" />
     </a>                                                                                                           
     <a href="https://www.netlify.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/netlify.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/netlify.png" height="45" width="45" align="center" />
     </a>
 </div>
 
@@ -97,15 +97,15 @@
 
 <div>
     <a href="https://www.typescriptlang.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/typescript.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/typescript.png" height="45" width="45" align="center" />
     </a>
     <a href="https://nextjs.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/next-js.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/next-js.png" height="45" width="45" align="center" />
     </a>
     <a href="https://www.mysql.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/mysql.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/mysql.png" height="45" width="45" align="center" />
     </a>
     <a href="https://firebase.google.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/firebase.png" height="45" width="45" align="center" />
+        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/firebase.png" height="45" width="45" align="center" />
     </a>
 </div>
