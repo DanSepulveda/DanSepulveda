@@ -20,13 +20,14 @@
 - 🤔 I’m looking for help with getting my first IT job.
 - 🎵 I like listening to music and singing.
 - 👹 I'm learning Japanese.
-<br />
+  <br />
 
 ## 💻 Latest Projects
->- Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
->- Quickly - [Web Demo](https://quickly-food.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/eCommerce)
->- MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app)
-<br />
+
+> - Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
+> - Quickly - [Web Demo](https://quickly-food.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/eCommerce)
+> - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app)
+>   <br />
 
 ## 🛠️ Technologies
 
@@ -109,4 +110,3 @@
         <img src="https://github.com/DanSepulveda/dev-icons/blob/master/firebase.png" height="45" width="45" align="center" />
     </a>
 </div>
-
