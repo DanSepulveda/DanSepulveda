@@ -17,9 +17,20 @@
 
 ## 💻 Latest Projects
 
-> - Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
+### 🍔 Quickly
+
 > - Quickly - [Web Demo](https://quickly-food.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/eCommerce)
+> - Technologies: React, Redux, Node, Express, MongoDB, Mongoose, WebSockets.
+
+### 🎮 Nosy Game
+
+> - Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
+> - Technologies: React, Redux, Node, Express, MongoDB, Mongoose, WebSockets.
+
+### ✈️ MyTinerary
+
 > - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app)
+> - Technologies: React, Redux, Node, Express, MongoDB, Mongoose.
 
 ## 🛠️ Technologies
 
