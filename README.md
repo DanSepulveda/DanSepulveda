@@ -1,16 +1,10 @@
-<h1 align="center">Hi everyone, I'm Daniel Sepúlveda<br /></h1>
-<h4 align="center">Full Stack MERN Developer& Mobile Apps </h4>
-<p align="center">
-   <a href="https://www.linkedin.com/in/dansepulvedap/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dansepdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.dansep.cl/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+# Hi everyone, I'm Daniel Sepúlveda
+
+## Full Stack MERN Developer& Mobile Apps
+
+[![HTML](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dansepulvedap/)
+[![HTML](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dansepdev@gmail.com)
+[![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dansep.cl/)
 
 ## 👦 About Me
 
@@ -25,7 +19,7 @@
 
 > - Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
 > - Quickly - [Web Demo](https://quickly-food.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/eCommerce)
-> - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app) >
+> - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app)
 
 ## 🛠️ Technologies
 
