@@ -32,6 +32,21 @@
 
 ### I mostly use:
 
+[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/bootstrap5.png)](https://getbootstrap.com/)
+[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/material-ui.png)](https://mui.com/)
+
+<!-- [![Foo]()]()
+[![Foo]()]()
+[![Foo]()]()
+[![Foo]()]()
+[![Foo]()]()
+[![Foo]()]()
+[![Foo]()]()
+[![Foo]()]() -->
+
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/html.png" height="45" width="45" align="center" />
