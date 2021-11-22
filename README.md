@@ -20,107 +20,39 @@
 - 🤔 I’m looking for help with getting my first IT job.
 - 🎵 I like listening to music and singing.
 - 👹 I'm learning Japanese.
-  <br />
 
 ## 💻 Latest Projects
 
 > - Nosy Game - [Web Demo](https://nosygame.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/nosygame)
 > - Quickly - [Web Demo](https://quickly-food.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/eCommerce)
-> - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app) > <br />
+> - MyTinerary: [Web Demo](https://mytinerary-dansep.herokuapp.com/) - [WebApp Repository](https://github.com/DanSepulveda/mytinerary-sepulveda) - [Mobile App Repository](https://github.com/DanSepulveda/mytinerary-app) >
 
 ## 🛠️ Technologies
 
-### I mostly use:
+### I mostly use
 
-[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/bootstrap5.png)](https://getbootstrap.com/)
-[![Foo](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/material-ui.png)](https://mui.com/)
+[![HTML](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/bootstrap5.png)](https://getbootstrap.com/)
+[![Material UI](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/material-ui.png)](https://mui.com/)
+[![SASS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/sass.png)](https://sass-lang.com/)
+[![React](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/react.png)](https://reactjs.org/)
+[![React Native](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/react-native.png)](https://reactnative.dev/)
+[![Redux](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/redux.png)](https://redux.js.org/)
+[![Node JS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/node.png)](https://nodejs.org/en/)
+[![Express](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/express-js.png)](https://expressjs.com/)
+[![NPM](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/npm.png)](https://www.npmjs.com/)
+[![MongoDB](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/mongodb.png)](https://www.mongodb.com/)
+[![GIT](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/git.png)](https://git-scm.com/)
+[![Github](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/github.png)](https://github.com/)
+[![VS Code](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/vs-code.png)](https://code.visualstudio.com/)
+[![Heroku](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/heroku.png)](https://heroku.com/)
+[![Netlify](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/netlify.png)](https://www.netlify.com/)
 
-<!-- [![Foo]()]()
-[![Foo]()]()
-[![Foo]()]()
-[![Foo]()]()
-[![Foo]()]()
-[![Foo]()]()
-[![Foo]()]()
-[![Foo]()]() -->
+### I'm currently learning
 
-<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/html.png" height="45" width="45" align="center" />
-    </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/css.png" height="45" width="45" align="center" />
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/javascript.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://getbootstrap.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/bootstrap5.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://mui.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/material-ui.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://sass-lang.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/sass.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://reactjs.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/react.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://reactnative.dev/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/react-native.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://redux.js.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/redux.png" height="45" width="45" align="center" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://nodejs.org/en/">
-      <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/node.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://expressjs.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/express-js.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://www.npmjs.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/npm.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://www.mongodb.com/">
-         <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/mongodb.png" height="45" width="45" align="center" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://git-scm.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/git.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://github.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/github.png" height="45" width="45" align="center" />
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/vs-code.png" height="45" width="45" align="center" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://heroku.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/heroku.png" height="45" width="45" align="center" />
-    </a>                                                                                                           
-    <a href="https://www.netlify.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/netlify.png" height="45" width="45" align="center" />
-    </a>
-</div>
-
-### I'm currently learning...
-
-<div>
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/typescript.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://nextjs.org/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/next-js.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://www.mysql.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/mysql.png" height="45" width="45" align="center" />
-    </a>
-    <a href="https://firebase.google.com/">
-        <img src="https://github.com/DanSepulveda/DanSepulveda/blob/main/icons/firebase.png" height="45" width="45" align="center" />
-    </a>
-</div>
+[![TypeScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/typescript.png)](https://www.typescriptlang.org/)
+[![Next JS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/next-js.png)](https://nextjs.org/)
+[![MySQL](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/mysql.png)](https://www.mysql.com/)
+[![Firebase](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/firebase.png)](https://firebase.google.com/)
