@@ -8,7 +8,7 @@
 
 ## 👦 About Me
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my own React Component Library - [Repository](https://github.com/DanSepulveda/react-compeasy).
 - 🌱 I’m currently learning TypeScript, MySQL, NextJS and Firebase.
 - 👯 I’m looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I’m looking for help with getting my first IT job.
@@ -29,6 +29,7 @@
 [![HTML](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/typescript.png)](https://www.typescriptlang.org/)
 [![Bootstrap](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/bootstrap5.png)](https://getbootstrap.com/)
 [![Material UI](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/material-ui.png)](https://mui.com/)
 [![SASS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/sass.png)](https://sass-lang.com/)
@@ -47,7 +48,7 @@
 
 ### I'm currently learning
 
-[![TypeScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/typescript.png)](https://www.typescriptlang.org/)
+[![AWS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/aws.png)](https://aws.amazon.com/es/)
 [![Next JS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/next-js.png)](https://nextjs.org/)
 [![MySQL](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/mysql.png)](https://www.mysql.com/)
 [![Firebase](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/firebase.png)](https://firebase.google.com/)
