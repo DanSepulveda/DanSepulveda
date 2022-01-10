@@ -9,7 +9,7 @@
 ## 👦 About Me
 
 - 🔭 I’m currently working on my own React Component Library - [Repository](https://github.com/DanSepulveda/react-compeasy).
-- 🌱 I’m currently learning TypeScript, MySQL, NextJS and Firebase.
+- 🌱 I’m currently learning AWS, NextJS and Firebase.
 - 👯 I’m looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I’m looking for help with getting my first IT job.
 - 🎵 I like listening to music and singing.
