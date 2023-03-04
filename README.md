@@ -1,4 +1,4 @@
-# Hi everyone, I'm Daniel Sepúlveda
+# Hi everyone, I'm Daniel Sepúlveda P.
 
 ## Full Stack MERN Developer & Mobile Apps
 
